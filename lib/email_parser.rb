@@ -5,12 +5,7 @@
 
 class EmailAddressParser 
   
-  def initialize(str)
-    @email = []
-    parse
-  end 
-  
-  let(:parser) { Parser.new "<body>testing</body> <title>parsing with ruby</title>" }
+
 
   
 end
