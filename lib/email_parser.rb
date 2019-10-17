@@ -7,9 +7,9 @@ class EmailAddressParser
   
   def initialize(str)
     @email = []
-    @CVS
-    
+    parser
   end 
+  
   
   
 end
